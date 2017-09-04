@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity
 
         mRealm = Realm.getDefaultInstance();
 
-        createTestDate();
+        //createTestDate();
         showDiaryList();
     }
 
